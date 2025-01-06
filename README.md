@@ -15,6 +15,13 @@ Dimension Reduction with LDA
 
 You can easily run this code on google colab by just clicking this badge [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsadiAhmad/LDA/blob/main/LDA.ipynb)
 
+## Mathematic Calculations
+
+<div display=flex align=center>
+  <img src="/Images/1.jpg" width="600px"/>
+  <img src="/Images/2.jpg" width="600px"/>
+</div>
+
 ## License
 
 This project is licensed under the MIT License.
